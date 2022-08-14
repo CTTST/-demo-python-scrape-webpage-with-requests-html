@@ -1,0 +1,7 @@
+dependencies:
+  - python=3.6
+  - pip:
+    - requests_html
+    - ipykernel
+    - pandas
+    - jupyter
